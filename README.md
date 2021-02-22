@@ -11,5 +11,17 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 5. [Research groups](#researchgroups)
 
 ## Books
-1. [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/) - introduction to theoretical and computational neuroscience
-2. [Dynamical Systems in Neuroscience](https://www.izhikevich.org/publications/dsn.pdf) - theoretical neuroscience with exercises and solutions
+1. [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/) - introduction to theoretical and computational neuroscience.
+2. [Dynamical Systems in Neuroscience](https://www.izhikevich.org/publications/dsn.pdf) - theoretical neuroscience with exercises and solutions.
+
+## Papers
+1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf) - pioneering work on spiking neural networks.
+
+## Frameworks
+1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
+2. [PySNN](https://github.com/BasBuller/PySNN/tree/master/examples) - Spiking Neural Network framework build on top of Pytorch.
+3. [PyNN](https://neuralensemble.org/PyNN/) - library for defining neural models independent of simulator specifics.
+
+## Repositories
+
+## Research groups
