@@ -12,7 +12,8 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 
 ## Books
 1. [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/) - introduction to theoretical and computational neuroscience.
-2. [Dynamical Systems in Neuroscience](https://www.izhikevich.org/publications/dsn.pdf) - theoretical neuroscience with exercises and solutions.
+2. [Neuronal Dynamics - Lecture](https://www.youtube.com/channel/UClmOXGbekg0comtuh0d8Oaw/playlists) - youtube playlists of lectures, based on the book "Neuronal Dynamics".
+3. [Dynamical Systems in Neuroscience](https://www.izhikevich.org/publications/dsn.pdf) - theoretical neuroscience with exercises and solutions.
 
 ## Papers
 1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf) - pioneering work on spiking neural networks.
@@ -25,3 +26,6 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 ## Repositories
 
 ## Research groups
+1. [Technical University of Munich](https://www.in.tum.de/i06/home/) - Robotics, Artificial Intelligence and Embedding Systems Chair of Technical University of Munich
+2. [Technical University of Graz](https://igi-web.tugraz.at/people/maass/) - Institue of Theoretical Computer Science
+3. [University of Zurich](https://www.ini.uzh.ch/en/institute.html) - Institute of Neuroinformatics
