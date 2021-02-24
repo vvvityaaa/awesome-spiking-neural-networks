@@ -24,6 +24,8 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 3. [PyNN](https://neuralensemble.org/PyNN/) - library for defining neural models independent of simulator specifics.
 
 ## Repositories
+1. [snn-toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) - toolbox for conversion of ANNs into SNNs using weight normalization.
+2. [BrainPy](https://github.com/PKU-NIP-Lab/BrainPy) - simulation toolbox for computational neuroscience research.
 
 ## Research groups
 1. [Technical University of Munich](https://www.in.tum.de/i06/home/) - Robotics, Artificial Intelligence and Embedding Systems Chair of Technical University of Munich
