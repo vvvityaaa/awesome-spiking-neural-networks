@@ -8,7 +8,7 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 2. [Papers](#papers)
 3. [Frameworks](#frameworks)
 4. [Repositories](#repositories)
-5. [Research groups](#research groups)
+5. [Research groups](#research-groups)
 
 ## Books
 1. [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/) - introduction to theoretical and computational neuroscience.
