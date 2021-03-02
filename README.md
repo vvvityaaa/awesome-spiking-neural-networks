@@ -38,3 +38,5 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 1. [Robotics, Artificial Intelligence and Embedding Systems Chair](https://www.in.tum.de/i06/home/) - Technical University of Munich
 2. [Institue of Theoretical Computer Science](https://igi-web.tugraz.at/people/maass/) - Technical University of Graz.
 3. [Institute of Neuroinformatics](https://www.ini.uzh.ch/en/institute.html) - University of Zurich.
+4. [Chair of highly-parallel VLSI systems and neuromorphic microelectronics](https://tu-dresden.de/ing/elektrotechnik/iee/hpsn) - Technical University of Dresden.
+5. [Neuroengineering student's group](https://neuroengineering.blog/) - student's of M.Sc. of Neuroengineering at the Technical University of Munich.
