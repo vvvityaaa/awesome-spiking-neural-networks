@@ -16,7 +16,13 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 3. [Dynamical Systems in Neuroscience](https://www.izhikevich.org/publications/dsn.pdf) - theoretical neuroscience with exercises and solutions.
 
 ## Papers
-1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf) - pioneering work on spiking neural networks.
+### General papers
+1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf), Maas W - pioneering work on spiking neural networks.
+2. [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full), Pfeiffer M and Pfeil T - overview paper of deep learning on neuromorphic hardware using biologically plausible spiking neurons.
+
+### ANN to SNN Conversion
+1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al - defines algorithms for weight normalization for ann to snn conversion.
+2. [Theory and Tools for the Conversion of Analog to Spiking Convolutional Neural Networks](https://arxiv.org/pdf/1612.04052.pdf), Ruckauer et al - defines robust weight normalization and tools for converting different layers, like BatchNormalization, Maxpooling etc.
 
 ## Frameworks
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
