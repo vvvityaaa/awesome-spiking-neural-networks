@@ -37,8 +37,8 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 4. [hybrid-snn-conversion](https://github.com/nitin-rathi/hybrid-snn-conversion) - hybrid ann to snn conversion with spike-based backpropagation.
 
 ## Research groups and projects
-1. [Human Brain Project](https://www.humanbrainproject.eu/en/)
-2. [Robotics, Artificial Intelligence and Embedding Systems Chair](https://www.in.tum.de/i06/home/) - Technical University of Munich
+1. [Human Brain Project](https://www.humanbrainproject.eu/en/) - european project for research in neuroscience, computing and brain-related medicine.
+2. [Robotics, Artificial Intelligence and Embedding Systems Chair](https://www.in.tum.de/i06/home/) - Technical University of Munich.
 3. [Institue of Theoretical Computer Science](https://igi-web.tugraz.at/people/maass/) - Technical University of Graz.
 4. [Institute of Neuroinformatics](https://www.ini.uzh.ch/en/institute.html) - University of Zurich.
 5. [Chair of highly-parallel VLSI systems and neuromorphic microelectronics](https://tu-dresden.de/ing/elektrotechnik/iee/hpsn) - Technical University of Dresden.
