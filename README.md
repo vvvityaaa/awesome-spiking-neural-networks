@@ -23,6 +23,7 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 ### ANN to SNN Conversion
 1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al - defines algorithms for weight normalization for ann to snn conversion.
 2. [Theory and Tools for the Conversion of Analog to Spiking Convolutional Neural Networks](https://arxiv.org/pdf/1612.04052.pdf), Ruckauer et al - defines robust weight normalization and tools for converting different layers, like BatchNormalization, Maxpooling etc.
+3. [Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation](https://arxiv.org/pdf/2005.01807.pdf), Rathi et al - hybrid ann to snn conversion.
 
 ## Frameworks
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
@@ -33,6 +34,7 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 1. [snn-toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) - toolbox for conversion of ANNs into SNNs using weight normalization.
 2. [BrainPy](https://github.com/PKU-NIP-Lab/BrainPy) - simulation toolbox for computational neuroscience research.
 3. [spikeflow](https://github.com/colinator/spikeflow) - library for spiking neural networks on top of Tensorflow.
+4. [hybrid-snn-conversion](https://github.com/nitin-rathi/hybrid-snn-conversion) - hybrid ann to snn conversion with spike-based backpropagation.
 
 ## Research groups
 1. [Robotics, Artificial Intelligence and Embedding Systems Chair](https://www.in.tum.de/i06/home/) - Technical University of Munich
