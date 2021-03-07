@@ -17,8 +17,9 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 
 ## Papers
 ### General papers
-1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf), Maas W - pioneering work on spiking neural networks.
-2. [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full), Pfeiffer M and Pfeil T - overview paper of deep learning on neuromorphic hardware using biologically plausible spiking neurons.
+1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf), Maass W - pioneering work on spiking neural networks.
+2. [On the computational power of circuits of spiking neurons](https://igi-web.tugraz.at/PDF/135.pdf), Maass W and Markram H - theoretical work, proving theorems about computational complexities of spiking networks.
+3. [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full), Pfeiffer M and Pfeil T - overview paper of deep learning on neuromorphic hardware using biologically plausible spiking neurons.
 
 ### ANN to SNN Conversion
 1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al - defines algorithms for weight normalization for ann to snn conversion.
