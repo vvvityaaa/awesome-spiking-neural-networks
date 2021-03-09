@@ -4,11 +4,11 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 
 ## Contents
 
-1. [Books](#books)
-2. [Papers](#papers)
-3. [Frameworks](#frameworks)
-4. [Repositories](#repositories)
-5. [Research groups](#research-groups)
+[Books](#books)
+[Papers](#papers)
+[Frameworks](#frameworks)
+[Repositories](#repositories)
+[Research groups](#research-groups)
 
 ## Books
 1. [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/) - introduction to theoretical and computational neuroscience.
@@ -20,11 +20,13 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf), Maass W - pioneering work on spiking neural networks.
 2. [On the computational power of circuits of spiking neurons](https://igi-web.tugraz.at/PDF/135.pdf), Maass W and Markram H - theoretical work, proving theorems about computational complexities of spiking networks.
 3. [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full), Pfeiffer M and Pfeil T - overview paper of deep learning on neuromorphic hardware using biologically plausible spiking neurons.
+4. 
 
 ### ANN to SNN Conversion
-1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al - defines algorithms for weight normalization for ann to snn conversion.
-2. [Theory and Tools for the Conversion of Analog to Spiking Convolutional Neural Networks](https://arxiv.org/pdf/1612.04052.pdf), Ruckauer et al - defines robust weight normalization and tools for converting different layers, like BatchNormalization, Maxpooling etc.
-3. [Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation](https://arxiv.org/pdf/2005.01807.pdf), Rathi et al - hybrid ann to snn conversion.
+1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al (2015) - defines algorithms for weight normalization for ann to snn conversion.
+2. [Theory and Tools for the Conversion of Analog to Spiking Convolutional Neural Networks](https://arxiv.org/pdf/1612.04052.pdf), Ruckauer et al (2016) - defines robust weight normalization and tools for converting different layers, like BatchNormalization, Maxpooling etc.
+3. [Conversion  of  continuous-valued  deep  networks  to  efficientevent-driven  networks  for  image  classification](https://www.frontiersin.org/articles/10.3389/fnins.2017.00682/full), Rueckauer et al (2017) - spiking max-pooling and batch normalization.
+4. [Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation](https://arxiv.org/pdf/2005.01807.pdf), Rathi et al - hybrid ann to snn conversion.
 
 ## Frameworks
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
