@@ -1,4 +1,4 @@
-# Awesome Spiking Neural Networks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Spiking Neural Networks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A curated list of materials for *Spiking Neural Networks*, 3rd generation of artificial neural networks.
 
@@ -20,7 +20,6 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf), Maass W - pioneering work on spiking neural networks.
 2. [On the computational power of circuits of spiking neurons](https://igi-web.tugraz.at/PDF/135.pdf), Maass W and Markram H - theoretical work, proving theorems about computational complexities of spiking networks.
 3. [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full), Pfeiffer M and Pfeil T - overview paper of deep learning on neuromorphic hardware using biologically plausible spiking neurons.
-4. 
 
 ### ANN to SNN Conversion
 1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al (2015) - defines algorithms for weight normalization for ann to snn conversion.
