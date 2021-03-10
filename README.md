@@ -27,6 +27,7 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 3. [Conversion  of  continuous-valued  deep  networks  to  efficientevent-driven  networks  for  image  classification](https://www.frontiersin.org/articles/10.3389/fnins.2017.00682/full), Rueckauer et al (2017) - spiking max-pooling and batch normalization.
 4. [Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation](https://arxiv.org/pdf/2005.01807.pdf), Rathi et al (2020) - hybrid ann to snn conversion.
 5. [Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](https://arxiv.org/pdf/1903.06530.pdf), Kim et al (2019) - converting famous yolo architecture to the spiking version.
+6. [Spiking Deep Residual Network](https://arxiv.org/pdf/1805.01352.pdf), Hu et al (2018) - converting ResNet to a spiking version.
 
 ## Frameworks
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
