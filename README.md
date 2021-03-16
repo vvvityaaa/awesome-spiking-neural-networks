@@ -32,7 +32,8 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 6. [Spiking Deep Residual Network](https://arxiv.org/pdf/1805.01352.pdf), Hu et al (2018) - converting ResNet to a spiking version.
 
 ### Learning methods for SNNs
-1. [Surrogate gradient learning in spiking neural networks](https://arxiv.org/pdf/1901.09948.pdf), Neftciet al (2019) - surrogate method, which enables discrete backpropagation learning.
+1. [Event-driven random backpropagation: Enabling neuromorphic deep learning machines](https://www.frontiersin.org/articles/10.3389/fnins.2017.00324/full), Neftci et al (2017) - random backpropagation as solution for problem of discrete backpropagation on spikes.
+2. [Surrogate gradient learning in spiking neural networks](https://arxiv.org/pdf/1901.09948.pdf), Neftciet al (2019) - surrogate method, which enables discrete backpropagation learning.
 
 ## Frameworks
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
