@@ -38,6 +38,8 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 3. [S4NN: temporal backpropagation for spiking neural networkswith one spike per neuron](https://arxiv.org/pdf/1910.09495.pdf), Kheradpisheh SR and Masquelier T (2020) - backpropagation learning method, based on rank-order temporal coding.
 4. [Biologically inspired alternatives to backpropagation throughtime for learning in recurrent neural nets](https://arxiv.org/pdf/1901.09049.pdf), Bellec et al. (2019) - biologically plausible approximation of backpropagation through time.
 
+### Neuromorphic hardware
+
 ## Frameworks
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
 2. [PySNN](https://github.com/BasBuller/PySNN/tree/master/examples) - framework for spiking neural netorks built on top of Pytorch.
