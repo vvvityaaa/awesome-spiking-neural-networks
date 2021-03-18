@@ -25,16 +25,16 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 3. [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full), Pfeiffer M and Pfeil T (2018) - overview paper of deep learning on neuromorphic hardware using biologically plausible spiking neurons.
 
 ### ANN to SNN Conversion
-1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al (2015) - defines algorithms for weight normalization for ann to snn conversion.
-2. [Theory and Tools for the Conversion of Analog to Spiking Convolutional Neural Networks](https://arxiv.org/pdf/1612.04052.pdf), Ruckauer et al (2016) - defines robust weight normalization and tools for converting different layers, like BatchNormalization, Maxpooling etc.
+1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al. (2015) - defines algorithms for weight normalization for ann to snn conversion.
+2. [Theory and Tools for the Conversion of Analog to Spiking Convolutional Neural Networks](https://arxiv.org/pdf/1612.04052.pdf), Ruckauer et al. (2016) - defines robust weight normalization and tools for converting different layers, like BatchNormalization, Maxpooling etc.
 3. [Conversion  of  continuous-valued  deep  networks  to  efficientevent-driven  networks  for  image  classification](https://www.frontiersin.org/articles/10.3389/fnins.2017.00682/full), Rueckauer et al (2017) - spiking max-pooling and batch normalization.
-4. [Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation](https://arxiv.org/pdf/2005.01807.pdf), Rathi et al (2020) - hybrid ann to snn conversion.
-5. [Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](https://arxiv.org/pdf/1903.06530.pdf), Kim et al (2019) - converting famous yolo architecture to the spiking version.
+4. [Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation](https://arxiv.org/pdf/2005.01807.pdf), Rathi et al. (2020) - hybrid ann to snn conversion.
+5. [Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](https://arxiv.org/pdf/1903.06530.pdf), Kim et al. (2019) - converting famous yolo architecture to the spiking version.
 6. [Spiking Deep Residual Network](https://arxiv.org/pdf/1805.01352.pdf), Hu et al (2018) - converting ResNet to a spiking version.
 
 ### Learning methods for SNNs
-1. [Event-driven random backpropagation: Enabling neuromorphic deep learning machines](https://www.frontiersin.org/articles/10.3389/fnins.2017.00324/full), Neftci et al (2017) - random backpropagation as solution for problem of discrete backpropagation on spikes.
-2. [Surrogate gradient learning in spiking neural networks](https://arxiv.org/pdf/1901.09948.pdf), Neftciet al (2019) - surrogate method, which enables discrete backpropagation learning.
+1. [Event-driven random backpropagation: Enabling neuromorphic deep learning machines](https://www.frontiersin.org/articles/10.3389/fnins.2017.00324/full), Neftci et al. (2017) - random backpropagation as solution for problem of discrete backpropagation on spikes.
+2. [Surrogate gradient learning in spiking neural networks](https://arxiv.org/pdf/1901.09948.pdf), Neftci et al. (2019) - surrogate method, which enables discrete backpropagation learning.
 
 ## Frameworks
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
