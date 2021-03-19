@@ -33,10 +33,11 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 6. [Spiking Deep Residual Network](https://arxiv.org/pdf/1805.01352.pdf), Hu et al (2018) - converting ResNet to a spiking version.
 
 ### Learning methods for SNNs
-1. [Event-driven random backpropagation: Enabling neuromorphic deep learning machines](https://www.frontiersin.org/articles/10.3389/fnins.2017.00324/full), Neftci et al. (2017) - random backpropagation as solution for problem of discrete backpropagation on spikes.
-2. [Surrogate gradient learning in spiking neural networks](https://arxiv.org/pdf/1901.09948.pdf), Neftci et al. (2019) - surrogate method, which enables discrete backpropagation learning.
-3. [S4NN: temporal backpropagation for spiking neural networkswith one spike per neuron](https://arxiv.org/pdf/1910.09495.pdf), Kheradpisheh SR and Masquelier T (2020) - backpropagation learning method, based on rank-order temporal coding.
-4. [Biologically inspired alternatives to backpropagation throughtime for learning in recurrent neural nets](https://arxiv.org/pdf/1901.09049.pdf), Bellec et al. (2019) - biologically plausible approximation of backpropagation through time.
+1. [Spike timing dependent plasticity: a consequence of more fundamental learning rules](https://www.frontiersin.org/articles/10.3389/fncom.2010.00019/full), Shouval et al. (2010) - derivation of biological origin and plausibility of STDP.
+2. [Event-driven random backpropagation: Enabling neuromorphic deep learning machines](https://www.frontiersin.org/articles/10.3389/fnins.2017.00324/full), Neftci et al. (2017) - random backpropagation as solution for problem of discrete backpropagation on spikes.
+3. [Surrogate gradient learning in spiking neural networks](https://arxiv.org/pdf/1901.09948.pdf), Neftci et al. (2019) - surrogate method, which enables discrete backpropagation learning.
+4. [S4NN: temporal backpropagation for spiking neural networkswith one spike per neuron](https://arxiv.org/pdf/1910.09495.pdf), Kheradpisheh SR and Masquelier T (2020) - backpropagation learning method, based on rank-order temporal coding.
+5. [Biologically inspired alternatives to backpropagation throughtime for learning in recurrent neural nets](https://arxiv.org/pdf/1901.09049.pdf), Bellec et al. (2019) - biologically plausible approximation of backpropagation through time.
 
 ### Neuromorphic hardware
 
