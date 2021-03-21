@@ -41,6 +41,7 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 
 ### Neuromorphic hardware
 1. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf), Schuman et al. (2017) - broad discussion on major research topics on neuromorphic hardware.
+2. [Towards spike-based machine intelligence with neuromorphic computing](https://www.nature.com/articles/s41586-019-1677-2) - Roy et al. (2019) - overview of the main research direction in neuromorphic hardware and discussion of open questions and challenges in neuromorphic computing.
 
 ## Frameworks
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
