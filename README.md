@@ -40,6 +40,7 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 5. [Biologically inspired alternatives to backpropagation throughtime for learning in recurrent neural nets](https://arxiv.org/pdf/1901.09049.pdf), Bellec et al. (2019) - biologically plausible approximation of backpropagation through time.
 
 ### Neuron models
+1. [Simple Model of Spiking Neurons](https://www.izhikevich.org/publications/spikes.pdf), Izhikevich E (2003) - introduces the mathematical model of a new type of neurons, so called, Izhikevich neurons.
 
 ### Neuromorphic hardware
 1. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf), Schuman et al. (2017) - broad discussion on major research topics on neuromorphic hardware.
