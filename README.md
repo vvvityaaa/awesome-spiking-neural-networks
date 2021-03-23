@@ -39,6 +39,8 @@ A curated list of materials for *Spiking Neural Networks*, 3rd generation of art
 4. [S4NN: temporal backpropagation for spiking neural networkswith one spike per neuron](https://arxiv.org/pdf/1910.09495.pdf), Kheradpisheh SR and Masquelier T (2020) - backpropagation learning method, based on rank-order temporal coding.
 5. [Biologically inspired alternatives to backpropagation throughtime for learning in recurrent neural nets](https://arxiv.org/pdf/1901.09049.pdf), Bellec et al. (2019) - biologically plausible approximation of backpropagation through time.
 
+### Neuron models
+
 ### Neuromorphic hardware
 1. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf), Schuman et al. (2017) - broad discussion on major research topics on neuromorphic hardware.
 2. [Towards spike-based machine intelligence with neuromorphic computing](https://www.nature.com/articles/s41586-019-1677-2) - Roy et al. (2019) - overview of the main research direction in neuromorphic hardware and discussion of open questions and challenges in neuromorphic computing.
