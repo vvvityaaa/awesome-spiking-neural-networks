@@ -5,6 +5,10 @@
 
 A curated list of materials for *Spiking Neural Networks*, 3rd generation of artificial neural networks.
 
+
+![SNN Image](https://blogs.kcl.ac.uk/kclip/files/2019/08/prob_snn_KCLIP_0.jpg)
+Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spikes as an input and returning sequence of spikes [[1]](https://blogs.kcl.ac.uk/kclip/2019/08/16/compute-with-time-not-over-it-an-introduction-to-spiking-neural-networks/)
+
 ## Contents
 
 - [Books](#books)
