@@ -17,6 +17,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 - [Frameworks](#frameworks)
 - [Repositories](#repositories)
 - [Research groups](#research-groups-and-projects)
+- [Tutorials](#tutorials)
 
 ## Books
 1. [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/) - introduction to theoretical and computational neuroscience.
@@ -64,6 +65,8 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 3. [spikeflow](https://github.com/colinator/spikeflow) - library for spiking neural networks on top of Tensorflow.
 4. [hybrid-snn-conversion](https://github.com/nitin-rathi/hybrid-snn-conversion) - hybrid ann to snn conversion with spike-based backpropagation.
 5. [NengoDL](https://www.nengo.ai/)  - library for building, testing and deploying neural networks, especially spiking neural networks.
+
+## Tutorials
 
 ## Research groups and projects
 1. [Human Brain Project](https://www.humanbrainproject.eu/en/) - european project for research in neuroscience, computing and brain-related medicine.
