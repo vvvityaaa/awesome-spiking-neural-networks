@@ -36,10 +36,11 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 3. [Conversion  of  continuous-valued  deep  networks  to  efficientevent-driven  networks  for  image  classification](https://www.frontiersin.org/articles/10.3389/fnins.2017.00682/full), Rueckauer et al (2017) - spiking max-pooling and batch normalization.
 4. [Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation](https://arxiv.org/pdf/2005.01807.pdf), Rathi et al. (2020) - hybrid ann to snn conversion.
 5. [Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](https://arxiv.org/pdf/1903.06530.pdf), Kim et al. (2019) - converting famous yolo architecture to the spiking version.
-6. [Spiking Deep Residual Network](https://arxiv.org/pdf/1805.01352.pdf), Hu et al (2018) - converting ResNet to a spiking version.
+6. [Spiking Deep Residual Network](https://arxiv.org/pdf/1805.01352.pdf), Hu et al. (2018) - converting ResNet to a spiking version.
 
 ### Learning methods for SNNs
 1. [Spike timing dependent plasticity: a consequence of more fundamental learning rules](https://www.frontiersin.org/articles/10.3389/fncom.2010.00019/full), Shouval et al. (2010) - derivation of biological origin and plausibility of STDP.
+2. [A History of Spike-Timing-Dependent Plasticity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187646/), Markram et al. (2011) - origins and history of STDP learning method.  
 2. [Event-driven random backpropagation: Enabling neuromorphic deep learning machines](https://www.frontiersin.org/articles/10.3389/fnins.2017.00324/full), Neftci et al. (2017) - random backpropagation as solution for problem of discrete backpropagation on spikes.
 3. [Surrogate gradient learning in spiking neural networks](https://arxiv.org/pdf/1901.09948.pdf), Neftci et al. (2019) - surrogate method, which enables discrete backpropagation learning.
 4. [S4NN: temporal backpropagation for spiking neural networkswith one spike per neuron](https://arxiv.org/pdf/1910.09495.pdf), Kheradpisheh SR and Masquelier T (2020) - backpropagation learning method, based on rank-order temporal coding.
@@ -58,15 +59,20 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
 2. [PySNN](https://github.com/BasBuller/PySNN/tree/master/examples) - framework for spiking neural netorks built on top of Pytorch.
 3. [PyNN](https://neuralensemble.org/PyNN/) - library for defining neural models independent of simulator specifics.
+4. [NengoDL](https://www.nengo.ai/) - library for building, testing and deploying neural networks, especially spiking neural networks.
+5. [Brian2](https://github.com/brian-team/brian2) - python simulator for spiking neural networks.
+6. [Norse](https://github.com/electronicvisions/norse) - framework for spiking neural networks, which expands PyTorch with SNN primitives.
 
 ## Repositories
 1. [snn-toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) - toolbox for conversion of ANNs into SNNs using weight normalization.
 2. [BrainPy](https://github.com/PKU-NIP-Lab/BrainPy) - simulation toolbox for computational neuroscience research.
 3. [spikeflow](https://github.com/colinator/spikeflow) - library for spiking neural networks on top of Tensorflow.
 4. [hybrid-snn-conversion](https://github.com/nitin-rathi/hybrid-snn-conversion) - hybrid ann to snn conversion with spike-based backpropagation.
-5. [NengoDL](https://www.nengo.ai/)  - library for building, testing and deploying neural networks, especially spiking neural networks.
 
 ## Tutorials
+1. [Spiking Neuron Simulation](https://github.com/kaizouman/tensorsandbox/blob/master/snn/simple_spiking_model.ipynb) - tutorial on a simple spiking neuron simulation using Tensorflow.
+2. [LIF Simulation](https://github.com/kaizouman/tensorsandbox/blob/master/snn/leaky_integrate_fire.ipynb) - tutorial on the leaky-integrate-and-fire simulation using Tensorflow.
+3. [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - visualized web simulator for McCulloch & Pitts NN model.
 
 ## Research groups and projects
 1. [Human Brain Project](https://www.humanbrainproject.eu/en/) - european project for research in neuroscience, computing and brain-related medicine.
