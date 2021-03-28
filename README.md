@@ -47,9 +47,10 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 5. [Biologically inspired alternatives to backpropagation throughtime for learning in recurrent neural nets](https://arxiv.org/pdf/1901.09049.pdf), Bellec et al. (2019) - biologically plausible approximation of backpropagation through time.
 
 ### Neuron models
-1. [A quantitative description of membrane current and its application to conduction and excitation in nerve](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/), Hodgkin A and Huxley A (1952) - introduction of Hodgkin-Huxley neuron model.
-2. [Simple Model of Spiking Neurons](https://www.izhikevich.org/publications/spikes.pdf), Izhikevich E (2003) - introduces the mathematical model of a new type of neurons, so called, Izhikevich neurons.
-3. [Which Model to Use for Cortical Spiking Neurons?](https://www.izhikevich.org/publications/whichmod.pdf), Izhikevich E (2004) - overview of computational efficiency and biological plausibility of different neuron models.
+1. [A logical calculus of the ideas immanent in nervous activity](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf), McCulloch W and Pitts W (1943) - one of the first neuron models for computation, based on "all-or-none"-property of biological neurons.
+2. [A quantitative description of membrane current and its application to conduction and excitation in nerve](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/), Hodgkin A and Huxley A (1952) - introduction of Hodgkin-Huxley neuron model.
+3. [Simple Model of Spiking Neurons](https://www.izhikevich.org/publications/spikes.pdf), Izhikevich E (2003) - introduces the mathematical model of a new type of neurons, so called, Izhikevich neurons.
+4. [Which Model to Use for Cortical Spiking Neurons?](https://www.izhikevich.org/publications/whichmod.pdf), Izhikevich E (2004) - overview of computational efficiency and biological plausibility of different neuron models.
 
 ### Neuromorphic hardware
 1. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf), Schuman et al. (2017) - broad discussion on major research topics on neuromorphic hardware.
@@ -57,11 +58,12 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 
 ## Frameworks
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
-2. [PySNN](https://github.com/BasBuller/PySNN/tree/master/examples) - framework for spiking neural netorks built on top of Pytorch.
-3. [PyNN](https://neuralensemble.org/PyNN/) - library for defining neural models independent of simulator specifics.
-4. [NengoDL](https://www.nengo.ai/) - library for building, testing and deploying neural networks, especially spiking neural networks.
-5. [Brian2](https://github.com/brian-team/brian2) - python simulator for spiking neural networks.
-6. [Norse](https://github.com/electronicvisions/norse) - framework for spiking neural networks, which expands PyTorch with SNN primitives.
+2. [NEST](https://www.nest-simulator.org/) - spiking neural network simulator with focus on dynamics, size and structure of neural systems. Can be complemented by PyNN.
+3. [PySNN](https://github.com/BasBuller/PySNN/tree/master/examples) - framework for spiking neural netorks built on top of Pytorch.
+4. [PyNN](https://neuralensemble.org/PyNN/) - library for defining neural models independent of simulator specifics.
+5. [NengoDL](https://www.nengo.ai/) - library for building, testing and deploying neural networks, especially spiking neural networks.
+6. [Brian2](https://github.com/brian-team/brian2) - python simulator for spiking neural networks.
+7. [Norse](https://github.com/electronicvisions/norse) - framework for spiking neural networks, which expands PyTorch with SNN primitives.
 
 ## Repositories
 1. [snn-toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) - toolbox for conversion of ANNs into SNNs using weight normalization.
