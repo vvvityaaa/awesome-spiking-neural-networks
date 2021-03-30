@@ -16,7 +16,6 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 - [Papers](#papers)
 - [Frameworks](#frameworks)
 - [Repositories](#repositories)
-- [Research groups](#research-groups-and-projects)
 - [Others](#others)
 
 ## Books
