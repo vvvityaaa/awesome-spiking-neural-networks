@@ -71,15 +71,8 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 3. [spikeflow](https://github.com/colinator/spikeflow) - library for spiking neural networks on top of Tensorflow.
 4. [hybrid-snn-conversion](https://github.com/nitin-rathi/hybrid-snn-conversion) - hybrid ann to snn conversion with spike-based backpropagation.
 
-## Research groups and projects
-1. [Human Brain Project](https://www.humanbrainproject.eu/en/) - european project for research in neuroscience, computing and brain-related medicine.
-2. [Robotics, Artificial Intelligence and Embedding Systems Chair](https://www.in.tum.de/i06/home/) - Technical University of Munich.
-3. [Institue of Theoretical Computer Science](https://igi-web.tugraz.at/people/maass/) - Technical University of Graz.
-4. [Institute of Neuroinformatics](https://www.ini.uzh.ch/en/institute.html) - University of Zurich.
-5. [Chair of highly-parallel VLSI systems and neuromorphic microelectronics](https://tu-dresden.de/ing/elektrotechnik/iee/hpsn) - Technical University of Dresden.
-6. [Neuroengineering student's group](https://neuroengineering.blog/) - student's of M.Sc. of Neuroengineering at the Technical University of Munich.
-
 ## Others
-1. [Spiking Neuron Simulation](https://github.com/kaizouman/tensorsandbox/blob/master/snn/simple_spiking_model.ipynb) - tutorial on a simple spiking neuron simulation using Tensorflow.
-2. [LIF Simulation](https://github.com/kaizouman/tensorsandbox/blob/master/snn/leaky_integrate_fire.ipynb) - tutorial on the leaky-integrate-and-fire simulation using Tensorflow.
-3. [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - visualized web simulator for McCulloch & Pitts NN model.
+1. [Human Brain Project](https://www.humanbrainproject.eu/en/) - european project for research in neuroscience, computing and brain-related medicine.
+2. [Spiking Neuron Simulation](https://github.com/kaizouman/tensorsandbox/blob/master/snn/simple_spiking_model.ipynb) - tutorial on a simple spiking neuron simulation using Tensorflow.
+3. [LIF Simulation](https://github.com/kaizouman/tensorsandbox/blob/master/snn/leaky_integrate_fire.ipynb) - tutorial on the leaky-integrate-and-fire simulation using Tensorflow.
+4. [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - visualized web simulator for McCulloch & Pitts NN model.
