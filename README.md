@@ -18,12 +18,12 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 - [Repositories](#repositories)
 - [Others](#others)
 
-## Books
+## Books :closed_book:
 1. [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/) - introduction to theoretical and computational neuroscience.
 2. [Neuronal Dynamics - Lectures](https://www.youtube.com/channel/UClmOXGbekg0comtuh0d8Oaw/playlists) - youtube playlists of lectures, based on the book "Neuronal Dynamics".
 3. [Dynamical Systems in Neuroscience](https://www.izhikevich.org/publications/dsn.pdf) - theoretical neuroscience with exercises and solutions.
 
-## Papers
+## Papers :page_with_curl:
 ### General papers
 1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf), Maass W (1996) - pioneering work on spiking neural networks.
 2. [On the computational power of circuits of spiking neurons](https://igi-web.tugraz.at/PDF/135.pdf), Maass W and Markram H (2004) - theoretical work, proving theorems about computational complexities of spiking networks.
@@ -55,7 +55,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 1. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf), Schuman et al. (2017) - broad discussion on major research topics on neuromorphic hardware.
 2. [Towards spike-based machine intelligence with neuromorphic computing](https://www.nature.com/articles/s41586-019-1677-2) - Roy et al. (2019) - overview of the main research direction in neuromorphic hardware and discussion of open questions and challenges in neuromorphic computing.
 
-## Frameworks
+## Frameworks :computer:
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
 2. [NEST](https://www.nest-simulator.org/) - spiking neural network simulator with focus on dynamics, size and structure of neural systems. Can be complemented by PyNN.
 3. [PySNN](https://github.com/BasBuller/PySNN/tree/master/examples) - framework for spiking neural netorks built on top of Pytorch.
@@ -64,13 +64,13 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 6. [Brian2](https://github.com/brian-team/brian2) - python simulator for spiking neural networks.
 7. [Norse](https://github.com/electronicvisions/norse) - framework for spiking neural networks, which expands PyTorch with SNN primitives.
 
-## Repositories
+## Repositories :open_file_folder:
 1. [snn-toolbox](https://github.com/NeuromorphicProcessorProject/snn_toolbox) - toolbox for conversion of ANNs into SNNs using weight normalization.
 2. [BrainPy](https://github.com/PKU-NIP-Lab/BrainPy) - simulation toolbox for computational neuroscience research.
 3. [spikeflow](https://github.com/colinator/spikeflow) - library for spiking neural networks on top of Tensorflow.
 4. [hybrid-snn-conversion](https://github.com/nitin-rathi/hybrid-snn-conversion) - hybrid ann to snn conversion with spike-based backpropagation.
 
-## Others
+## Others :memo:
 1. [Human Brain Project](https://www.humanbrainproject.eu/en/) - european project for research in neuroscience, computing and brain-related medicine.
 2. [Spiking Neuron Simulation](https://github.com/kaizouman/tensorsandbox/blob/master/snn/simple_spiking_model.ipynb) - tutorial on a simple spiking neuron simulation using Tensorflow.
 3. [LIF Simulation](https://github.com/kaizouman/tensorsandbox/blob/master/snn/leaky_integrate_fire.ipynb) - tutorial on the leaky-integrate-and-fire simulation using Tensorflow.
