@@ -24,7 +24,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 3. [Dynamical Systems in Neuroscience](https://www.izhikevich.org/publications/dsn.pdf) - theoretical neuroscience with exercises and solutions.
 
 ## Papers :page_with_curl:
-### General papers
+### Fundamental and overview papers
 1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf), Maass W (1996) - pioneering work on spiking neural networks.
 2. [On the computational power of circuits of spiking neurons](https://igi-web.tugraz.at/PDF/135.pdf), Maass W and Markram H (2004) - theoretical work, proving theorems about computational complexities of spiking networks.
 3. [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full), Pfeiffer M and Pfeil T (2018) - overview paper of deep learning on neuromorphic hardware using biologically plausible spiking neurons.
