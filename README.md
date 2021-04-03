@@ -30,7 +30,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 3. [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full), Pfeiffer M and Pfeil T (2018) - overview paper of deep learning on neuromorphic hardware using biologically plausible spiking neurons.
 
 ### Applied papers
-
+1. [STDP-based spiking deep convolutional neural networks for object recognition](https://arxiv.org/pdf/1611.01421.pdf), Kheradpisheh et al. (2017) - first paper proposing convolutional SNN architecture.
 
 ### ANN to SNN Conversion
 1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al. (2015) - defines algorithms for weight normalization for ann to snn conversion.
