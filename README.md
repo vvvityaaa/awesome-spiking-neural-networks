@@ -28,6 +28,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 1. [Networks of Spiking Neurons: The Third Generation of Neural Network Models](https://igi-web.tugraz.at/PDF/85a.pdf), Maass W (1996) - pioneering work on spiking neural networks.
 2. [On the computational power of circuits of spiking neurons](https://igi-web.tugraz.at/PDF/135.pdf), Maass W and Markram H (2004) - theoretical work, proving theorems about computational complexities of spiking networks.
 3. [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full), Pfeiffer M and Pfeil T (2018) - overview paper of deep learning on neuromorphic hardware using biologically plausible spiking neurons.
+4. [Deep learning in spiking neural networks](https://arxiv.org/pdf/1804.08150.pdf), Tavanaei et al. (2018) - overview paper of advancements in deep learning for spiking neural networks.
 
 ### Applied papers
 1. [STDP-based spiking deep convolutional neural networks for object recognition](https://arxiv.org/pdf/1611.01421.pdf), Kheradpisheh et al. (2017) - first paper proposing convolutional SNN architecture.
