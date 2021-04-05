@@ -43,11 +43,11 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 
 ### Learning methods for SNNs
 1. [Spike timing dependent plasticity: a consequence of more fundamental learning rules](https://www.frontiersin.org/articles/10.3389/fncom.2010.00019/full), Shouval et al. (2010) - derivation of biological origin and plausibility of STDP.
-2. [A History of Spike-Timing-Dependent Plasticity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187646/), Markram et al. (2011) - origins and history of STDP learning method.  
-2. [Event-driven random backpropagation: Enabling neuromorphic deep learning machines](https://www.frontiersin.org/articles/10.3389/fnins.2017.00324/full), Neftci et al. (2017) - random backpropagation as solution for problem of discrete backpropagation on spikes.
-3. [Surrogate gradient learning in spiking neural networks](https://arxiv.org/pdf/1901.09948.pdf), Neftci et al. (2019) - surrogate method, which enables discrete backpropagation learning.
-4. [S4NN: temporal backpropagation for spiking neural networkswith one spike per neuron](https://arxiv.org/pdf/1910.09495.pdf), Kheradpisheh SR and Masquelier T (2020) - backpropagation learning method, based on rank-order temporal coding.
-5. [Biologically inspired alternatives to backpropagation throughtime for learning in recurrent neural nets](https://arxiv.org/pdf/1901.09049.pdf), Bellec et al. (2019) - biologically plausible approximation of backpropagation through time.
+2. [A History of Spike-Timing-Dependent Plasticity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187646/), Markram et al. (2011) - origins and history of STDP learning method.
+3. [Event-driven random backpropagation: Enabling neuromorphic deep learning machines](https://www.frontiersin.org/articles/10.3389/fnins.2017.00324/full), Neftci et al. (2017) - random backpropagation as solution for problem of discrete backpropagation on spikes.
+4. [Surrogate gradient learning in spiking neural networks](https://arxiv.org/pdf/1901.09948.pdf), Neftci et al. (2019) - surrogate method, which enables discrete backpropagation learning.
+5. [S4NN: temporal backpropagation for spiking neural networkswith one spike per neuron](https://arxiv.org/pdf/1910.09495.pdf), Kheradpisheh SR and Masquelier T (2020) - backpropagation learning method, based on rank-order temporal coding.
+6. [Biologically inspired alternatives to backpropagation throughtime for learning in recurrent neural nets](https://arxiv.org/pdf/1901.09049.pdf), Bellec et al. (2019) - biologically plausible approximation of backpropagation through time.
 
 ### Neuron models
 1. [A logical calculus of the ideas immanent in nervous activity](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf), McCulloch W and Pitts W (1943) - one of the first neuron models for computation, based on "all-or-none"-property of biological neurons.
