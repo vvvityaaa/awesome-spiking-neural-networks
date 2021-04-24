@@ -33,6 +33,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 
 ### Applied papers
 1. [STDP-based spiking deep convolutional neural networks for object recognition](https://arxiv.org/pdf/1611.01421.pdf), Kheradpisheh et al. (2017) - first paper proposing convolutional SNN architecture.
+2. [A Brain-Inspired Decision-Making Spiking Neural Network and Its Application in Unmanned Aerial Vehicle](https://www.frontiersin.org/articles/10.3389/fnbot.2018.00056/full), Zhao et al. (2018) - using spiking neural networks for decision making for intelligent agents.
 
 ### ANN to SNN Conversion
 1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al. (2015) - defines algorithms for weight normalization for ann to snn conversion.
