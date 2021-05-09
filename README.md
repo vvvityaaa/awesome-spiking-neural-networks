@@ -37,7 +37,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 3. [Spiking Neural Networks applied to the classification of motor tasks in EEG signals](https://www.sciencedirect.com/science/article/abs/pii/S0893608019303193), Virgilio G. et al. (2020) - using spiking networks for recognition of motor imagery tasks from EEG signals.
 4. [Combining SNN and ANN for enhanced image classification](https://arxiv.org/pdf/2102.10592.pdf), Muramatsu N and Yu HT(2021) - combining SNN and ANN to get a hybrid model with improved performance for image classification.
 5. [One-shot learning with spiking neural networks](https://www.biorxiv.org/content/10.1101/2020.06.17.156513v1), Scherr et al. (2020) - investigation of one-shot learning paradigm in spiking neural networks using local synaptic plasticity in RSNNs.
-6. [Visual Explanations from Spiking Neural Networks using Interspike Intervals](Visual Explanations from Spiking Neural Networks using Interspike Intervals), Kim Y and Panda P (2021) - building biologically plausible Spike Activation Maps (SAM) for spike visualization.
+6. [Visual Explanations from Spiking Neural Networks using Interspike Intervals](https://arxiv.org/abs/2103.14441), Kim Y and Panda P (2021) - building biologically plausible Spike Activation Maps (SAM) for spike visualization.
 
 ### ANN to SNN Conversion
 1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al. (2015) - defines algorithms for weight normalization for ann to snn conversion.
