@@ -66,6 +66,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 1. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf), Schuman et al. (2017) - broad discussion on major research topics on neuromorphic hardware.
 2. [Towards spike-based machine intelligence with neuromorphic computing](https://www.nature.com/articles/s41586-019-1677-2) - Roy et al. (2019) - overview of the main research direction in neuromorphic hardware and discussion of open questions and challenges in neuromorphic computing.
 3. [Neuromorphic silicon neuron circuits](https://www.frontiersin.org/articles/10.3389/fnins.2011.00073/full) - Indiveri et al. (2013) - overview of building blocks for neuromorphic circuits.
+4. [Thermal-Aware Compilation of Spiking Neural Networks to Neuromorphic Hardware](https://arxiv.org/abs/2010.04773) - Titirsha T and Das A (2020) - novel technique for mapping of SNNs to neuromorphic hardware using a thermal model.
 
 ## Frameworks :computer:
 1. [BindsNET](https://github.com/BindsNET/bindsnet) - Python framework for simulation of spiking neural networks using Pytorch.
