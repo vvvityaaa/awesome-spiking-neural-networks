@@ -59,8 +59,9 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 ### Neuron models
 1. [A logical calculus of the ideas immanent in nervous activity](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf), McCulloch W and Pitts W (1943) - one of the first neuron models for computation, based on "all-or-none"-property of biological neurons.
 2. [A quantitative description of membrane current and its application to conduction and excitation in nerve](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/), Hodgkin A and Huxley A (1952) - introduction of Hodgkin-Huxley neuron model.
-3. [Simple Model of Spiking Neurons](https://www.izhikevich.org/publications/spikes.pdf), Izhikevich E (2003) - introduces the mathematical model of a new type of neurons, so called, Izhikevich neurons.
-4. [Which Model to Use for Cortical Spiking Neurons?](https://www.izhikevich.org/publications/whichmod.pdf), Izhikevich E (2004) - overview of computational efficiency and biological plausibility of different neuron models.
+4. [Simple Model of Spiking Neurons](https://www.izhikevich.org/publications/spikes.pdf), Izhikevich E (2003) - introduces the mathematical model of a new type of neurons, so called, Izhikevich neurons.
+5. [Resonate-and-fire neurons](https://www.izhikevich.org/publications/resfire.pdf), Izhikevich E (2001) - resonate-and-fire model with complex state variable.
+6. [Which Model to Use for Cortical Spiking Neurons?](https://www.izhikevich.org/publications/whichmod.pdf), Izhikevich E (2004) - overview of computational efficiency and biological plausibility of different neuron models.
 
 ### Neuromorphic hardware
 1. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf), Schuman et al. (2017) - broad discussion on major research topics on neuromorphic hardware.
