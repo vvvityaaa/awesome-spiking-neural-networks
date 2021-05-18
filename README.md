@@ -62,6 +62,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 4. [Simple Model of Spiking Neurons](https://www.izhikevich.org/publications/spikes.pdf), Izhikevich E (2003) - introduces the mathematical model of a new type of neurons, so called, Izhikevich neurons.
 5. [Resonate-and-fire neurons](https://www.izhikevich.org/publications/resfire.pdf), Izhikevich E (2001) - resonate-and-fire model with complex state variable.
 6. [Which Model to Use for Cortical Spiking Neurons?](https://www.izhikevich.org/publications/whichmod.pdf), Izhikevich E (2004) - overview of computational efficiency and biological plausibility of different neuron models.
+7. [Spike-frequency adaptation of a generalized leaky integrate-and-fire model neuron](https://www.cns.nyu.edu/wanglab/publications/pdf/liu2001.pdf), Liu YH and Wang XJ (2001) - paper on leaky integrate-and-fire neuron model.
 
 ### Neuromorphic hardware
 1. [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf), Schuman et al. (2017) - broad discussion on major research topics on neuromorphic hardware.
