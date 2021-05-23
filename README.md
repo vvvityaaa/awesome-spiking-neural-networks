@@ -46,6 +46,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 4. [Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation](https://arxiv.org/pdf/2005.01807.pdf), Rathi et al. (2020) - hybrid ann to snn conversion.
 5. [Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](https://arxiv.org/pdf/1903.06530.pdf), Kim et al. (2019) - converting famous yolo architecture to the spiking version.
 6. [Spiking Deep Residual Network](https://arxiv.org/pdf/1805.01352.pdf), Hu et al. (2018) - converting ResNet to a spiking version.
+7. [Optimal conversion of conventional artificial neural networks to spiking neural networks](https://openreview.net/pdf?id=FZ1oTwcXchK), Deng S and Gu S (2021) - more efficient approximation of loss function between ann and snn with weight transfer pipeline that combines threshold balance and soft-reset mechanisms.
 
 ### Learning methods for SNNs
 1. [Spike timing dependent plasticity: a consequence of more fundamental learning rules](https://www.frontiersin.org/articles/10.3389/fncom.2010.00019/full), Shouval et al. (2010) - derivation of biological origin and plausibility of STDP.
