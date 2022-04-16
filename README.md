@@ -42,11 +42,12 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 ### ANN to SNN Conversion
 1. [Fast-classifying, high-accuracy spiking deep networks through weight and threshold balancing](https://ieeexplore.ieee.org/document/7280696), Diehl et al. (2015) - defines algorithms for weight normalization for ann to snn conversion.
 2. [Theory and Tools for the Conversion of Analog to Spiking Convolutional Neural Networks](https://arxiv.org/pdf/1612.04052.pdf), Ruckauer et al. (2016) - defines robust weight normalization and tools for converting different layers, like BatchNormalization, Maxpooling etc.
-3. [Conversion  of  continuous-valued  deep  networks  to  efficientevent-driven  networks  for  image  classification](https://www.frontiersin.org/articles/10.3389/fnins.2017.00682/full), Rueckauer et al (2017) - spiking max-pooling and batch normalization.
+3. [Conversion  of  continuous-valued  deep  networks  to  efficientevent-driven  networks  for  image  classification](https://www.frontiersin.org/articles/10.3389/fnins.2017.00682/full), Rueckauer et al. (2017) - spiking max-pooling and batch normalization.
 4. [Enabling deep spiking neural networks with hybrid conversion and spike timing dependent backpropagation](https://arxiv.org/pdf/2005.01807.pdf), Rathi et al. (2020) - hybrid ann to snn conversion.
 5. [Spiking-YOLO: Spiking Neural Network for Energy-Efficient Object Detection](https://arxiv.org/pdf/1903.06530.pdf), Kim et al. (2019) - converting famous yolo architecture to the spiking version.
 6. [Spiking Deep Residual Network](https://arxiv.org/pdf/1805.01352.pdf), Hu et al. (2018) - converting ResNet to a spiking version.
 7. [Optimal conversion of conventional artificial neural networks to spiking neural networks](https://openreview.net/pdf?id=FZ1oTwcXchK), Deng S and Gu S (2021) - more efficient approximation of loss function between ann and snn with weight transfer pipeline that combines threshold balance and soft-reset mechanisms.
+8. [Deep Residual Learning in Spiking Neural Networks](https://arxiv.org/pdf/2102.04159.pdf), Fang et al. (2022) - improved conversion of ResNet to a spiking version.
 
 ### Learning methods for SNNs
 1. [Spike timing dependent plasticity: a consequence of more fundamental learning rules](https://www.frontiersin.org/articles/10.3389/fncom.2010.00019/full), Shouval et al. (2010) - derivation of biological origin and plausibility of STDP.
