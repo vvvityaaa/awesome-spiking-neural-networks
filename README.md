@@ -85,6 +85,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 2. [BrainPy](https://github.com/PKU-NIP-Lab/BrainPy) - simulation toolbox for computational neuroscience research.
 3. [spikeflow](https://github.com/colinator/spikeflow) - library for spiking neural networks on top of Tensorflow.
 4. [hybrid-snn-conversion](https://github.com/nitin-rathi/hybrid-snn-conversion) - hybrid ann to snn conversion with spike-based backpropagation.
+5. [SpikingJelly](https://github.com/fangwei123456/spikingjelly) - new simple SNN framework in Pytorch with easy SNN initialization and ANN2SNN conversion.
 
 ## Others :memo:
 1. [Human Brain Project](https://www.humanbrainproject.eu/en/) - european project for research in neuroscience, computing and brain-related medicine.
