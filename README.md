@@ -30,6 +30,7 @@ Fig 1. Left - standard ANN network. Right - Spiking neural network, taking spike
 3. [Deep Learning With Spiking Neurons: Opportunities and Challenges](https://www.frontiersin.org/articles/10.3389/fnins.2018.00774/full), Pfeiffer M and Pfeil T (2018) - overview paper of deep learning on neuromorphic hardware using biologically plausible spiking neurons.
 4. [Deep learning in spiking neural networks](https://arxiv.org/pdf/1804.08150.pdf), Tavanaei et al. (2018) - overview paper of advancements in deep learning for spiking neural networks.
 5. [Spiking Neural Networks and Online Learning: An Overview and Perspectives](https://arxiv.org/pdf/1908.08019.pdf), Lobo et al. (2019) - overview paper of application of spiking neural networks in the online learning domain.
+6. [Recent Advances and New Frontiers in Spiking Neural Networks](https://arxiv.org/pdf/2204.07050.pdf), Zhang et al. (2022) - state-of-the-art progress in network topology, neuromorphic datasets, neuromorphic hardware and optimization algorithms.
 
 ### Applied papers
 1. [STDP-based spiking deep convolutional neural networks for object recognition](https://arxiv.org/pdf/1611.01421.pdf), Kheradpisheh et al. (2017) - first paper proposing convolutional SNN architecture.
